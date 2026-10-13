@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Linux/editor temporary files
+*~
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Local configuration
+.env
+.env.*
+*.local
+
+# Credentials and secrets
+client_secret*.json
+credentials*.json
+secrets*
+*.key
+*.pem
+*.p12
+
+# Logs
+*.log
